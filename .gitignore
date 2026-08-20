@@ -1,0 +1,20 @@
+# 敏感信息 - 绝不入库
+.env
+bilibili_cookies.json
+reports.db
+
+# 输出与缓存
+output/
+dist/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 测试
+.pytest_cache/
+
+# 发布暂存
+publish/
