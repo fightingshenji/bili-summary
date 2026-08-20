@@ -18,7 +18,7 @@
 
 ### GUI 版（推荐日常使用）
 
-1. 从 [Releases](../../releases) 下载 `bili-sum_share.zip`（纯净分享版，不含任何个人数据）
+1. 下载 [bili-sum_share.zip](./bili-sum_share.zip)（纯净分享版，不含任何个人数据）
 2. 解压 → 双击 `bili-sum.exe`（启动约 1 秒）
 3. 设置页粘贴你的 **DeepSeek API Key** 与 **B站完整 Cookie**
 4. 首页粘贴视频链接 → 开始总结
